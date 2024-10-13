@@ -10,3 +10,4 @@
     <p>هذا موقع بسيط يمكنك مشاركته مع أصدقائك.</p>
 </body>
 </html>
+<print>("hello, ibrahim adel would ") 
